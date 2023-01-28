@@ -5,19 +5,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhill2123&label=Profile%20views&color=0e75b6&style=flat" alt="dhill2123" /> </p>
 
-- 🌱 I’m currently learning **C#,SQL,Python, JS,HTML,**
+- 🔭 I’m currently working on **Data Science through CodeUp**
+
+- 🌱 I’m currently learning **C#,SQL,Python,JS,HTML,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DHILL2123](https://github.com/DHILL2123)
 
 - 💬 Ask me about **Data Science**
 
-- 📄 Know about my experiences [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 📫 How to reach me **deadrien.j.hill@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/deadrien-hill-34436122/](https://www.linkedin.com/in/deadrien-hill-34436122/)
 
 - ⚡ Fun fact **There are 293 ways to make change for a dollar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deadrienhill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deadrienhill" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deadrien-hill-34436122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deadrien-hill-34436122/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/deadrien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/deadrien" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
