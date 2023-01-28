@@ -1,3 +1,4 @@
+![MasterHead](https://www.freecodecamp.org/news/content/images/size/w2000/2021/08/learn-to-code.jpg)
 <h1 align="center">Hi 👋, I'm DeAdrien Hill</h1>
 <h3 align="center">An aspiring Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
