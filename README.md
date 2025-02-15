@@ -5,23 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhill2123&label=Profile%20views&color=0e75b6&style=flat" alt="dhill2123" /> </p>
 
-- 🔭 I’m currently working on **Data Science through CodeUp**
+- 🔭 I’m currently working as a **Predictive Analyst**
 
-- 🌱 I’m currently learning **C#,SQL,Python,JS,HTML,**
+- 🌱 I’m experienced in  **SQL,Python,Tableau, Machine Learning, Regression, Clustering, NLP, **
 
 - 👨‍💻 All of my projects are available at [https://github.com/DHILL2123](https://github.com/DHILL2123)
 
 - 💬 Ask me about **Data Science**
 
-- 📫 How to reach me **deadrien.j.hill@gmail.com**
+- 📫 How to reach me **deadrienhill@yahoo.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/deadrien-hill-34436122/](https://www.linkedin.com/in/deadrien-hill-34436122/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/deadrien-hill/)
 
 - ⚡ Fun fact **There are 293 ways to make change for a dollar.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deadrien-hill-34436122/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deadrien-hill-34436122/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deadrien-hill/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deadrien-hill/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
